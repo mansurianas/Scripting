@@ -1,0 +1,15 @@
+2023-10-01 10:00:01 INFO Starting the server...
+2023-10-01 10:00:02 DEBUG Initializing components...
+2023-10-01 10:00:03 WARNING Disk space is running low.
+2023-10-01 10:00:04 ERROR Failed to connect to database: Connection timeout.
+2023-10-01 10:00:05 INFO Server is running smoothly.
+2023-10-01 10:00:06 ERROR User authentication failed: Invalid credentials.
+2023-10-01 10:00:07 CRITICAL System overload: CPU usage at 95%.
+2023-10-01 10:00:08 INFO Processing user requests...
+2023-10-01 10:00:09 ERROR File not found: /path/to/file.txt.
+2023-10-01 10:00:10 DEBUG User request processed successfully.
+2023-10-01 10:00:11 WARNING Memory usage is high.
+2023-10-01 10:00:12 ERROR Failed to send email: SMTP server not reachable.
+2023-10-01 10:00:13 INFO Shutting down the server...
+2023-10-01 10:00:14 CRITICAL Unexpected shutdown: Power failure.
+2023-10-01 10:00:15 INFO Server stopped.
